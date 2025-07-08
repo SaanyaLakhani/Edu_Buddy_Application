@@ -57,7 +57,7 @@ st.markdown(
 
 # --- OpenRouter API Setup ---
 client = OpenAI(
-    api_key="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",
+    api_key="your-api-key",
     base_url="https://openrouter.ai/api/v1"
 )
 
