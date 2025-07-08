@@ -9,7 +9,7 @@ from scipy.io.wavfile import write
 import base64
 
 # ------------------ CONFIG ------------------ #
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "your-api-key"
 OPENROUTER_MODEL = "mistralai/mistral-7b-instruct"
 
 # ------------------ SET BACKGROUND + CSS ------------------ #
